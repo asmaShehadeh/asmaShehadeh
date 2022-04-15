@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :seedling: I’m currently learning Node.js <br />
 - :revolving_hearts:️ I’m looking for a job in web development. <br />
 - :smiling_imp: Challenges are my game. <br />
-
+- 📫 You can reach me on <a href = "mailto:asmaa@kiitos-tech.com">my email</a> or on my linkedin profile <a href = "https://www.linkedin.com/in/asmaa-shehadeh26/">Asmaa Shehadeh</a>
 <br />
 
 <!-- <h2 align="center">Quick Overview 📈</h2>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align="center" >
   <img src="https://profile-counter.glitch.me/asmaShehadeh/count.svg"></img>
 </div> -->
-
+<!-- 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
@@ -56,5 +56,5 @@ Here are some ideas to get you started:
  
 </p>
 
-
+ -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
